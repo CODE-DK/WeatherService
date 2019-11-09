@@ -6,6 +6,7 @@ import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor
+@NoArgsConstructor
 public class CityWeather {
     private String city;
     private String humidity;

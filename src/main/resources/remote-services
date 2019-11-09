@@ -1,0 +1,7 @@
+http://api.worldweatheronline.com/premium/v1/weather.ashx?key=3700b5ba25794185a6d54121190406&q=Ekaterinburg&format=json&fx=no&mca=no
+http://api.worldweatheronline.com/premium/v1/weather.ashx?key=3700b5ba25794185a6d54121190406&q=Moscow&format=json&fx=no&mca=no
+http://api.worldweatheronline.com/premium/v1/weather.ashx?key=3700b5ba25794185a6d54121190406&q=Chelyabinsk&format=json&fx=no&mca=no
+
+http://dataservice.accuweather.com/currentconditions/v1/1-295863_1_AL?apikey=bopAMwG1ZSYlgP4VsffODxHp1B4i8E06&language=ru&details=true
+http://dataservice.accuweather.com/currentconditions/v1/294021?apikey=bopAMwG1ZSYlgP4VsffODxHp1B4i8E06&language=ru&details=true
+http://dataservice.accuweather.com/currentconditions/v1/292332?apikey=bopAMwG1ZSYlgP4VsffODxHp1B4i8E06&language=ru&details=true
